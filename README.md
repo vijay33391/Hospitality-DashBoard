@@ -70,7 +70,7 @@ To help Atliq Hospitality management make data-driven decisions by visualizing a
 
 ## 👨‍💻 Author
 **Vijay Vardhan**  
-📧 [your-email@example.com]  
+📧 [pvijayavardhan@gmail.com]  
 🔗 [GitHub](https://github.com/vijay33391)
 
 ---
